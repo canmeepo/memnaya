@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+db.sqlite3
+.python-version
+.vscode/*
+### Django ###
+*.log
+*.pot
+*.pyc
+local_settings.py
+.env
